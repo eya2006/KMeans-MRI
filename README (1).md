@@ -1,5 +1,15 @@
 # K-Means MRI Image Segmentation
 
+A Streamlit application for segmenting brain MRI images using the K-Means clustering algorithm.
+
+## 🚀 Live Demo
+
+👉 [Try the K-Means MRI Segmentation App](https://kmeans-mri-zatc9el5orssakzvgzthun.streamlit.app/)
+
+## 💻 GitHub Repository
+
+This project implements MRI image segmentation using K-Means clustering.
+
 ## Project Description
 
 This project demonstrates **K-Means clustering for image segmentation**
