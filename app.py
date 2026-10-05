@@ -1,8 +1,6 @@
 import streamlit as st
-import cv2
 import numpy as np
 from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
 from PIL import Image
 import io
 
